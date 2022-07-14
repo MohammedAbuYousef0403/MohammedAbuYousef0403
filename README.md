@@ -1,4 +1,4 @@
-### Hello, I`am Mohammed Abu Yousef! 👋
+### Hello, I am Mohammed Abu Yousef! 👋
 
 - 🔭 I’m currently working on improving my skills as a software engineer.
 - 🌱 I’m currently curious about mobile and backend development.
