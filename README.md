@@ -1,5 +1,8 @@
 ### Hello, I`am Mohammed Abu Yousef! 👋
 
+- 🔭 I’m currently working on improving my skills as a software engineer.
+- 🌱 I’m currently curious about mobile and backend development.
+- 👯 I’m looking to collaborate on open source projects.
 - 🔭 I’m currently working on Hyper Tech company.
 - 🌱 I’m currently learning c#.
 - 👯 I’m looking to collaborate on Youtube.
